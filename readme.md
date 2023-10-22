@@ -48,7 +48,7 @@ This project was made for educational purposes and personal use. You hold respon
 - Show friendly
 - Color
 
-Version 4.2 | 20/10/2023
+Version 4.3 | 22/10/2023
 + Improved compability
 + Added many new features
 + Bugfixes
